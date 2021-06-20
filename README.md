@@ -11,7 +11,7 @@ Access adminer at [http://localhost:5401/y](http://localhost:5401/)
 
 If you are prompted to login make sure to set the following fields:
 - System: `MongoDB`
-- Server: `mongoDev` (`mongoProd` for production)
+- Server: `mongoDb` (`mongoProd` for production)
 - Username: `admin`
 - Password: `admin`
 - Database: `my-retail-db`
